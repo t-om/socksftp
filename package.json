@@ -7,9 +7,9 @@
   "description": "A SOCKS FTP client module for node.js forked from Choon Jin Ng",
   "main": "./lib/connection",
   "dependencies": {
-    "xregexp": "2.0.0",
     "readable-stream": "1.1.x",
-    "socks-client": "1.0.6"
+    "socks": "1.1.10",
+    "xregexp": "2.0.0"
   },
   "keywords": [
     "ftp",
